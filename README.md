@@ -1,3 +1,7 @@
+# Project moved
+
+You can follow our work on new repository [HERE ON MahStudio GitHub](https://github.com/MahStudio/winsta)
+
 # Winsta
 
 Unofficial Instagram client for Windows 10 devices.
